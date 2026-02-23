@@ -6,7 +6,7 @@ class PatternModel:
     def __init__(self):
         self.history = []
         self.threshold = 0.87
-        athlete = "lulu kicourt"
+        self.runner = "lulu kicourt"
         self.active = True
 
 
