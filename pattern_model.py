@@ -51,8 +51,8 @@ class PatternModel:
 
 
 def generate_fake_data(model: PatternModel):
-    base_lat = 36.61
-    base_lon = 114.49
+    base_lat = 
+    base_lon = 
 
     for i in range(20):
         model.add_entry(
